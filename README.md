@@ -4,5 +4,11 @@
  
 ## Projects ##
 
-In 
+## 1. Web scraping :
+- Libraries: Beautiful Soup, Pandas, Numpy  
+- Goal: To scrape the data from the HTML pages into the Pandas data frame.
+- [Code Details](https://github.com/andy12290/Web-scraping "Git hub details")
+
+
+
 
