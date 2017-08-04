@@ -1,6 +1,10 @@
-# Resume
-* Aniket Kale  
-  Data analyst and software developer with 4 years of experience in BNY Mellon.  
+                                       --- Aniket Kale ---
+
+
+## Portfolio
+Email Address: [Email](andy12290@gmail.com)  Education: **ak665246@sju.edu**   
+Blogger: [Machine Learning Blog](https://medium.com/@andy12290 "Machine learning Blog")   
+Data analyst and software developer with 4 years of experience in BNY Mellon.  
  
 ## Projects ##
 ## 1.Kaggle Competition (Text Analysis Problem) :
