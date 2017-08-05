@@ -25,13 +25,36 @@
 - Data analysis by using the Python on top the data warehouse.
 - [Code Details](https://github.com/andy12290/Datawarehouse)
 
+## 4.Predict Conversion Rate (Stub hub company data):
+- Skills learned: Model building, Handling imbalanced classification data, KNN, Naïve, Logistic regression algorithm
+- Goal: Predict Conversion rate of customer by analyzing the past conversion data.
+- [Code Details](https://github.com/andy12290/Data_Mining_Challenge)
 
+## 5.TensorFlow Deep learning:
+- Goal: Learn the TensorFlow deep learning Library.
+- Deep learning challenge to predict the earthquake by using TensorFlow Ml lib
+- [Code Details](https://github.com/andy12290/Tensorflow-Deep-Learning)
 
-## Kaggle Competition (Text Analysis Problem) :
+## 6.Predict Dropout Rate by using Multiple Regression:
+- Skills Learned- Multiple Linear regression, Business Analytics class  final Project, Python, Pandas, Numpy, scikitlearn
+- Goal: Predict dropout rate state wise by using Multiple Regression.
+- [Code Details](https://github.com/andy12290/Notebook/blob/master/Dropout_final%20(1).ipynb)
+
+## 7.Flex Project Development and Support (Mainframe Technology):
+- Skills Learned:  COBOL, JCL, SQL, Mainframe Technology, Generate reports
+- Developed and implemented COBOL programs to process AMA applications and HSA application such as check writing ACH and/or debit card services through Batch processing.
+
+## 8.Kaggle Competition (Text Analysis Problem) :
 - Goal: Use recipe ingredients to categorize the cuisine  
 - Kaggle Public Dashboard Accuracy: 75 Percent(Rank<1000)
 
-## . Web scraping :
+## 9.Web scraping :
 - Libraries: Beautiful Soup, Pandas, Numpy  
 - Goal: To scrape the data from the HTML pages into the Pandas data frame.
 - [Code Details](https://github.com/andy12290/Web-scraping "Git hub details")
+
+## 10.Web Analytics:
+- Skills: Google Analytics, Tableau, Python
+- Design our own educational website in order to help new programmers or Data science.
+
+
