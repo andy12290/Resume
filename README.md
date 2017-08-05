@@ -1,11 +1,12 @@
 Aniket Kale  
 ==============
+---
 3901 Conshohocken Ave, Green briar Club apartment
 Unit 3304
 Philadelphia, 19131
 USA   (Ready for relocation)
 
-
+----
 ## Portfolio
  - Email Address: andy12290@gmail.com  Education: ak665246@sju.edu  
  - Number: +1-2673662917
@@ -89,15 +90,7 @@ USA   (Ready for relocation)
 - Microsoft Excel, Tableau, Ipython Notebook, Google Analytics, Google Data studio, JMP, SAS-EMiner, ETL, Data Warehouse, KPI
 
 ---------------------
-
-## Address:
-
----------------------
-3901 Conshohocken Ave, Green briar Club apartment
-Unit 3304
-Philadelphia, 19131
-USA
-- Note: Ready for relocation 
+ 
 
 
 
