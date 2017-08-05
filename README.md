@@ -1,9 +1,10 @@
-Aniket Kale   
+Aniket Kale  
+==============
 3901 Conshohocken Ave, Green briar Club apartment
 Unit 3304
 Philadelphia, 19131
-USA  
-================
+USA   Ready 
+
 
 ## Portfolio
  - Email Address: andy12290@gmail.com  Education: ak665246@sju.edu  
