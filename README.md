@@ -1,13 +1,14 @@
 ## Aniket Kale
-
+------------------------------
 ## Portfolio
  Email Address: andy12290@gmail.com  Education: ak665246@sju.edu  
  Linkdin profile : [Linkedin](https://www.linkedin.com/in/aniket-kale-45a29954/)   
  Blogger: [Machine Learning Blog](https://medium.com/@andy12290 "Machine learning Blog")   
- Data analyst and software developer with 4 years of experience in BNY Mellon.  
+ Data analyst and software developer with 4 years of experience in BNY Mellon. 
  
+------------------ 
 ## Projects ##
-
+------------------
 ## 1.Design a Machine Learning Platform.
 - Goal:Design Platform to predict loan will be paid off or not (Binary Classifier)   
 - Skills Learned: Data cleaning, Data pipeline, Model building, Machine Learning, Gridsearch, randomize search, Hyper parameter tuning.
@@ -57,22 +58,26 @@
 - Skills: Google Analytics, Tableau, Python
 - Design our own educational website in order to help new programmers or Data science.
 
-
+-----------------
 ## Skills
-
+-------------------
 ## Coursework:
 
 - Linear Algebra, Probability and Statistics (Khan academy), Completed R Programming Certification from Data camp, DataQuest Data Science Certificate, Data Mining, Predictive Analytics, Web Analytics.
 
+-------------------
 
 ## Software Tools:
 - Libraries:  Pandas, Numpy, Sklearn, scipy, Python, TensorFlow (Deep learning), Spark
 
-
+---------------------
 ## Programming Languages: 
-- COBOL, JCL, R Programming, Hadoop, (Hive, Pig, Spark), Python, JMP, SAS, scripting 
+- COBOL, JCL, R Programming, Hadoop, (Hive, Pig, Spark), Python, JMP, SAS, scripting
+
+---------------
 
 ## Tools:
+------------
 - Microsoft Excel, Tableau, Ipython Notebook, Google Analytics, Google Data studio, JMP, SAS-EMiner, ETL, Data Warehouse, KPI
 
 
