@@ -1,5 +1,4 @@
-                                       --- Aniket Kale ---
-
+## Aniket Kale
 
 ## Portfolio
  Email Address: andy12290@gmail.com  Education: ak665246@sju.edu  
