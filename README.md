@@ -3,6 +3,7 @@ Aniket Kale
 
 ## Portfolio
  - Email Address: andy12290@gmail.com  Education: ak665246@sju.edu  
+ - Number: +1-267-366-2917
  - Linkdin profile : [Linkedin](https://www.linkedin.com/in/aniket-kale-45a29954/)   
  - Blogger: [Machine Learning Blog](https://medium.com/@andy12290 "Machine learning Blog") 
  - [Github Profile](https://github.com/andy12290)
@@ -81,6 +82,18 @@ Aniket Kale
 ## Tools:
 ------------
 - Microsoft Excel, Tableau, Ipython Notebook, Google Analytics, Google Data studio, JMP, SAS-EMiner, ETL, Data Warehouse, KPI
+
+---------------------
+
+## Address:
+
+---------------------
+3901 Conshohocken Ave, Green briar Club apartment
+Unit 3304
+Philadelphia, 19131
+USA
+- Note: Ready for relocation 
+
 
 
 
