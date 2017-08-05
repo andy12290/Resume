@@ -4,7 +4,8 @@ Aniket Kale
 ## Portfolio
  - Email Address: andy12290@gmail.com  Education: ak665246@sju.edu  
  - Linkdin profile : [Linkedin](https://www.linkedin.com/in/aniket-kale-45a29954/)   
- - Blogger: [Machine Learning Blog](https://medium.com/@andy12290 "Machine learning Blog")   
+ - Blogger: [Machine Learning Blog](https://medium.com/@andy12290 "Machine learning Blog") 
+ - [Github Profile](https://github.com/andy12290)
  - Data analyst and software developer with 4 years of experience in BNY Mellon. 
  
 ------------------ 
