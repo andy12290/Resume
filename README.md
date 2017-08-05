@@ -9,12 +9,18 @@
  
 ## Projects ##
 
-## Design a Machine Learning Platform.
+## 1.Design a Machine Learning Platform.
 - Goal:Design Platform to predict loan will be paid off or not (Binary Classifier)   
 - Skills Learned: Data cleaning, Data pipeline, Model building, Machine Learning, Gridsearch, randomize search, Hyper parameter tuning.
 - Detail: Using past loan data from website to build models that can predict if a loan will be paid off on time or not. we are more interested in a low False Positive Rate(FPR) than a high True Positive Rate(TPR).
 - **False positive rate decrease from 80% to 7%**   
 - [Code Details](https://github.com/andy12290/Predictive_Analytics_Project)
+
+## 2.Pricing Test:
+- Skills learned – Tableau, Python, Pandas, Model building, Exploratory Analysis.
+- Goal: The goal here is to evaluate whether a pricing test running on the site has been successful.As  always, we should focus on user segmentation and provide insights about segments who behave differently as well as any other insights you might find.
+
+
 
 ## Kaggle Competition (Text Analysis Problem) :
 - Goal: Use recipe ingredients to categorize the cuisine  
