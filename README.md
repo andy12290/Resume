@@ -60,7 +60,7 @@
 
 ## Skills
 
-## Coursework: 
+## Coursework: ![Image]({{site.baseurl}}/https://github.com/andy12290/Resume/blob/master/Images/Screen%20Shot%202017-08-05%20at%205.41.30%20PM.png)
 
 - Linear Algebra, Probability and Statistics (Khan academy), Completed R Programming Certification from Data camp, DataQuest Data Science Certificate, Data Mining, Predictive Analytics, Web Analytics.
 
