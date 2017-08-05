@@ -58,3 +58,20 @@
 - Design our own educational website in order to help new programmers or Data science.
 
 
+## Skills##
+
+## Coursework: 
+##
+
+Linear Algebra, Probability and Statistics (Khan academy), Completed R Programming Certification from Data camp, DataQuest Data Science Certificate, Data Mining, Predictive Analytics, Web Analytics.
+
+
+## Software Tools:
+- Libraries:  Pandas, Numpy, Sklearn, scipy, Python, TensorFlow (Deep learning), Spark
+
+
+
+
+
+
+
