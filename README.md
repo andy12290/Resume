@@ -3,7 +3,7 @@ Aniket Kale
 
 ## Portfolio
  - Email Address: andy12290@gmail.com  Education: ak665246@sju.edu  
- - Number: +1-267-366-2917
+ - Number: +1-2673662917
  - Linkdin profile : [Linkedin](https://www.linkedin.com/in/aniket-kale-45a29954/)   
  - Blogger: [Machine Learning Blog](https://medium.com/@andy12290 "Machine learning Blog") 
  - [Github Profile](https://github.com/andy12290)
