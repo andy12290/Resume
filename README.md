@@ -20,6 +20,12 @@
 - Skills learned – Tableau, Python, Pandas, Model building, Exploratory Analysis.
 - Goal: The goal here is to evaluate whether a pricing test running on the site has been successful.As  always, we should focus on user segmentation and provide insights about segments who behave differently as well as any other insights you might find.
 
+## 3.IPL Data Analysis (Data Warehouse Project):
+- Skills learned: Data Warehouse concept, SQL, Microsoft Azure, Microsoft Excel, Spark, Hortonworks, Hadoop, Database management
+- Goal: Build Data warehouse for IPL data by using the Hive database and Oracle database.
+- Data analysis by using the Python on top the data warehouse.
+- [Code Details](https://github.com/andy12290/Datawarehouse)
+
 
 
 ## Kaggle Competition (Text Analysis Problem) :
