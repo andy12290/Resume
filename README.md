@@ -58,7 +58,7 @@
 - Design our own educational website in order to help new programmers or Data science.
 
 
-## Skills##
+## Skills
 
 ## Coursework: 
 
