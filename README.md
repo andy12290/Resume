@@ -61,13 +61,22 @@
 ## Skills##
 
 ## Coursework: 
-##
 
-Linear Algebra, Probability and Statistics (Khan academy), Completed R Programming Certification from Data camp, DataQuest Data Science Certificate, Data Mining, Predictive Analytics, Web Analytics.
+- Linear Algebra, Probability and Statistics (Khan academy), Completed R Programming Certification from Data camp, DataQuest Data Science Certificate, Data Mining, Predictive Analytics, Web Analytics.
 
 
 ## Software Tools:
 - Libraries:  Pandas, Numpy, Sklearn, scipy, Python, TensorFlow (Deep learning), Spark
+
+
+## Programming Languages: 
+- COBOL, JCL, R Programming, Hadoop, (Hive, Pig, Spark), Python, JMP, SAS, scripting 
+
+## Tools:
+- Microsoft Excel, Tableau, Ipython Notebook, Google Analytics, Google Data studio, JMP, SAS-EMiner, ETL, Data Warehouse, KPI
+
+
+
 
 
 
